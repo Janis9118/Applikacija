@@ -20,4 +20,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: your-dockerhub-username/applikacija:latest
+        tags: janis9118/applikacija:latest
